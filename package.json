@@ -1,7 +1,6 @@
 {
   "name": "projeto-nodejs-rest",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
@@ -13,9 +12,19 @@
     "body-parser": "^1.19.2",
     "consign": "^0.1.6",
     "express": "^4.17.3",
+    "moment": "^2.29.1",
     "mysql": "^2.18.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matheusamato15/API_REST_ALURA.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Matheusamato15/API_REST_ALURA/issues"
+  },
+  "homepage": "https://github.com/Matheusamato15/API_REST_ALURA#readme",
+  "description": ""
 }
